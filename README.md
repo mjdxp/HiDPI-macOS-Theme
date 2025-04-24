@@ -3,6 +3,7 @@ A HiDPI Xfwm4 theme to mimic macOS. Copy to ~/.themes to select it in your windo
 
 # Credits
 I based this theme off of this theme: https://www.pling.com/s/XFCE/p/2092033
+
 To create the theme, I scaled stuff using GIMP and replaced the buttons with these: https://github.com/lwouis/macos-traffic-light-buttons-as-SVG
 
 # Screenshot
